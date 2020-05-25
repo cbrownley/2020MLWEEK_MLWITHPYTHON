@@ -15,7 +15,7 @@ This repository contains all of the Python notebooks and files associated with t
         First, type the following and then hit Enter: cd
         Second, type the following and then hit Enter: cd Desktop/
 3. Finally, to download the 2020MLWEEK_MLWITHPYTHON folder, type the following and then hit Enter:
-    git clone https://github.com/cbrownley/2020MLWEEK_MLWITHPYTHON.git
+    `git clone https://github.com/cbrownley/2020MLWEEK_MLWITHPYTHON.git`
 
 **Windows computer:**
 
