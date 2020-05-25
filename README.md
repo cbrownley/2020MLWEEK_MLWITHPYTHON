@@ -14,10 +14,8 @@ This repository contains all of the Python notebooks and files associated with t
 2. Navigate to the folder where you want to download the 2020MLWEEK_MLWITHPYTHON folder
 
     For example, to download the 2020MLWEEK_MLWITHPYTHON folder onto your Desktop:
-
-        First, type the following and then hit Enter: cd
-
-        Second, type the following and then hit Enter: cd Desktop/
+        First, type the following and then hit Enter: `cd`
+        Second, type the following and then hit Enter: `cd Desktop/`
 
 3. Finally, to download the 2020MLWEEK_MLWITHPYTHON folder, type the following and then hit Enter:
 
